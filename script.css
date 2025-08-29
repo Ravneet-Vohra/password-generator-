@@ -1,0 +1,24 @@
+#head{
+            font-size: 60px;
+            margin: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #para{
+            font-size: 25px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        #btn{
+            height: 50px;
+            width: 720px;
+            border: 2px solid black;
+            text-align: end;
+            margin-left: 250px;
+            margin-top: 80px;
+            border-radius: 50px;
+        }
